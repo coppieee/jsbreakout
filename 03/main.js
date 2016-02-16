@@ -36,7 +36,7 @@ jQuery(function($){
 			console.log('hit!');
 		}
 		//描画範囲クリア
-		ctx.clearRect(0,0,140,140);
+		ctx.clearRect(0,0,500,500);
 		
 		//枠を描く
 		ctx.beginPath();
